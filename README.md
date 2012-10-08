@@ -1,4 +1,4 @@
 movsim-papers
 =============
 
-papers that describe, extend or use movsim
+papers that describe, extend or use movsim.
